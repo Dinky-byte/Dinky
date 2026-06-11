@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name/Alias] 👋
+# Hi there, I'm Dinky 👋
 _Aspiring Ethical Hacker & Security Researcher_
 
 ---
